@@ -6,4 +6,4 @@
 
 ### 当整个表格都滚动出屏幕时，固定的第一行也消失
 
-[结果图](https://github.com/lulujianglab/freezed-table-component)
+[结果图](https://lulujianglab.github.io/freezed-table-component/)
