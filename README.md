@@ -1,0 +1,1 @@
+# freezed-table-component.github.com
